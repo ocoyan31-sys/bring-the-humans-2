@@ -14,7 +14,7 @@ This guide takes you from zero to your first submitted entry. No prior experienc
 with the site is assumed, and entering is free.
 
 > **Ready to look around?** Create your account through my referral link:
-> **https://make.fun/r/5h2hvham** — it costs you nothing, and it tells make.fun
+> **https://make.fun/r/z9jnae29** — it costs you nothing, and it tells make.fun
 > that this guide sent you.
 
 ---
@@ -52,8 +52,8 @@ with the site is assumed, and entering is free.
 
 ## Step 1 — Create your account and set it up
 
-1. Go to **https://make.fun/r/5h2hvham** (my referral link — the code is
-   `5h2hvham`; you will also see it written as `?ref=5h2hvham` on other links,
+1. Go to **https://make.fun/r/z9jnae29** (my referral link — the code is
+   `z9jnae29`; you will also see it written as `?ref=z9jnae29` on other links,
    which means the same thing) and sign up. You can sign in with GitHub, a
    Solana wallet, Google, Apple, or Discord.
 2. **Link GitHub on your profile** if you signed in another way. Without this,
@@ -263,5 +263,5 @@ note, and aim to be done hours before, not minutes.
 *This guide is itself an entry in the **bring-the-humans-02** bounty — a
 getting-started tutorial carrying its author's referral link. If it helped
 you, the kindest thanks is to sign up through it:
-**https://make.fun/r/5h2hvham** (referral code `5h2hvham`). See you on the
+**https://make.fun/r/z9jnae29** (referral code `z9jnae29`). See you on the
 leaderboard.*
